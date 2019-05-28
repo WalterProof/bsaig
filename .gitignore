@@ -1,0 +1,9 @@
+/bin
+/go.sum
+/test/tests.*
+/test/coverage.*
+/depgraph.png
+
+# System Files
+.DS_Store
+Thumbs.db
